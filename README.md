@@ -4,8 +4,10 @@ This is a template of the Obsidian Vault that I use to organize my work. My prim
 
 🗒 If you are reading this on GitHub, I highly recommend cloning the repo and opening this Vault in Obsidian.
 
-# Screen Shot
-# ![[Screenshot 2025-01-02 at 11.15.26 AM.png]]Quick Start
+The view from Obsidian:
+![[Screenshot 2025-01-02 at 11.15.26 AM.png]]
+
+# Quick Start
 
 If you don't care about the details and just want to see the meat of my process, check out [this filled out daily note](2024-12-21) (in Obsidian, not GitHub).  If anything in there confuses you, check out the [[#Daily Note]] section below for more details.
 # Why Obsidian?
