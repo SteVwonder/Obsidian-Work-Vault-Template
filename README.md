@@ -3,9 +3,11 @@
 This is a template of the Obsidian Vault that I use to organize my work. My primary interface and usage of it is via the Daily Notes ([example](2024-12-21)). It roughly follows the [PARA method](https://fortelabs.com/blog/para/) for organizing the files in a folder structure. The point of sharing this vault is to provide a starting point for your own vault rather than a full formed framework that you must strictly adhere to.  I view Obsidian a lot like Emacs, Vim, or oh-my-zsh: it is nice to pickup someone else's configuration and then modify it to fit your own workflow.
 
 🗒 If you are reading this on GitHub, I highly recommend cloning the repo and opening this Vault in Obsidian.
-# Quick Start
 
-If you don't care about the details and just want to see the meat of my process, check out [this filled out daily note](2024-12-21) (in Obsidian).  If anything in there confuses you, check out the [[#Daily Note]] section below for more details.
+# Screen Shot
+# ![[Screenshot 2025-01-02 at 11.15.26 AM.png]]Quick Start
+
+If you don't care about the details and just want to see the meat of my process, check out [this filled out daily note](2024-12-21) (in Obsidian, not GitHub).  If anything in there confuses you, check out the [[#Daily Note]] section below for more details.
 # Why Obsidian?
 
 Pros of Obsidian:
