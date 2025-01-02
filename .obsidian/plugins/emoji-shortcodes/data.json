@@ -1,0 +1,23 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":laughing:",
+    ":vomiting_face:",
+    ":moneybag:",
+    ":spiral_notepad:",
+    ":arrows_counterclockwise:",
+    ":recycle:",
+    ":calendar:",
+    ":tada:",
+    ":100:",
+    ":orange_circle:",
+    ":yellow_circle:",
+    ":green_circle:",
+    ":red_circle:",
+    ":stop_button:",
+    ":heavy_check_mark:"
+  ]
+}

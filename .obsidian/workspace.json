@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "4ba845170110a70a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74311408176458d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23583d257b20fe78",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5a4809c17667d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4fe51c83a2402f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7f21b7b83aba871",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3fb3883b0cfc3e13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "unopinionated",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "28eb6855e351cde1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bfd4339fc5e32ef2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "ac5cc10cc2260e36",
+    "type": "split",
+    "children": [
+      {
+        "id": "702874879af21768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c1e0ce2d277d02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2024/11/2024-11-08.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-08"
+            }
+          },
+          {
+            "id": "7ed4873362320b24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2024/11/2024-11-08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-08"
+            }
+          },
+          {
+            "id": "f4861151b582376d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c240569bf568711",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2024/11/2024-11-08.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-08"
+            }
+          },
+          {
+            "id": "22a9b6ffbb71c823",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e33897c3ca7122f0",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "23583d257b20fe78",
+  "lastOpenFiles": [
+    "Daily Notes/2024/12/2024-12-21.md",
+    "README.md",
+  ]
+}
