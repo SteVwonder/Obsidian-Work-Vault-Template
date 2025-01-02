@@ -22,12 +22,11 @@ Pros of Obsidian:
 - Can use the same app (but separate vault) for Work and Personal
 - Lots of [plugins](https://obsidian.md/plugins)
 - Totally flexible and completely unopinionated
-	- This can be a curse if you start to start from zero, but bootstrapping yourself with someone else's templates and customizing from there solves this.
+	- This can be a curse if you start from zero, but bootstrapping yourself with someone else's templates and customizing from there helps
 
 Cons of Obsidian:
 
 - You can spend too much time optimizing your Obsidian workflow and lie to yourself that you are being productive. Ask me how I know 😆
-- Isn't as powerful as Notion when it comes to tables and acting as a lightweight database
 
 # Daily Note
 
