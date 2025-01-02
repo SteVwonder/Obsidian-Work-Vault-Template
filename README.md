@@ -5,7 +5,7 @@ This is a template of the Obsidian Vault that I use to organize my work. My prim
 🗒 If you are reading this on GitHub, I highly recommend cloning the repo and opening this Vault in Obsidian.
 
 The view from Obsidian:
-![[Screenshot 2025-01-02 at 11.15.26 AM.png]]
+![[Daily-Note-Screenshot.png]]
 
 # Quick Start
 
