@@ -4,11 +4,6 @@ This is a template of the Obsidian Vault that I use to organize my work. My prim
 
 🗒 If you are reading this on GitHub, I highly recommend cloning the repo and opening this Vault in Obsidian.
 
-The view from Obsidian:
-<p align="center">
-  <img src="Images/Daily-Note-Screenshot.png" width="506px">
-</p>
-
 # Quick Start
 
 If you don't care about the details and just want to see the meat of my process, check out [this filled out daily note](2024-12-21) (in Obsidian, not GitHub).  If anything in there confuses you, check out the [[#Daily Note]] section below for more details.
@@ -31,6 +26,11 @@ Cons of Obsidian:
 # Daily Note
 
 The [Daily Note](https://help.obsidian.md/Plugins/Daily+notes) is the primary touch point of this Vault.  Every day that I start work, I click the daily note button (![lucide-calendar.svg > icon](https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/icons/lucide-calendar.svg) ) in the [ribbon](https://help.obsidian.md/User+interface/Ribbon)  From there I can see at a glance all of the tasks I should be working on and then plan my day.   You can see an example of a filled out daily note [here](2024-12-21). You can also press the daily note button to see what a blank one looks like.
+
+Here's a screenshot of the daily note in case you are reading this on Github:
+<p align="center">
+  <img src="Images/Daily-Note-Screenshot.png" width="506px">
+</p>
 
 ## How I use it
 
@@ -95,7 +95,7 @@ Since I'm an Emacs user, [org-mode](https://orgmode.org/) made a lot of sense.  
 
 ## Taskwarrior
 
-When I worked for a National Laboratory that was fairly stringent about putting data in the cloud, I used [taskwarrior](https://taskwarrior.org/).  It is a neat CLI tool for managing a task list.  It was crazy easy and fast to add tasks, especially combined with [iTerm's hotkeys for a popup terminal](https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen).  Similar to org-mode, my main pain point was the lack of a mobile app.  I had to email myself the task from my work phone and then manually enter the task when I got back to my laptop 🤮
+I used [taskwarrior](https://taskwarrior.org/) when I worked for a National Laboratory that was fairly stringent about putting data in the cloud.  It is a neat CLI tool for managing a task list.  It was crazy easy and fast to add tasks, especially combined with [iTerm's hotkeys for a popup terminal](https://apple.stackexchange.com/questions/48796/iterm-as-a-slide-out-terminal-from-the-top-of-the-screen).  Similar to org-mode, my main pain point was the lack of a mobile app.  I had to email myself the task from my work phone and then manually enter the task when I got back to my laptop 🤮
 
 ## Notion
 
