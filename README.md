@@ -14,7 +14,7 @@ Pros of Obsidian:
 	- The focus is ["file over app"](https://stephango.com/file-over-app)
 	- Essentially, you own your data, and even if Obsidian bit-rots, your files are all still readable and useful
 - Has a fully functional mobile app, including plugins
-        - Syncing between devices is end-to-end encrypted 
+	- Syncing between devices is end-to-end encrypted 
 - Can use the same app (but separate vault) for Work and Personal
 - Lots of [plugins](https://obsidian.md/plugins)
 - Totally flexible and completely unopinionated
